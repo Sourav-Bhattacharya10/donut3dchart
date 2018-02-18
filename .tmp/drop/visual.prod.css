@@ -1,0 +1,28 @@
+.visual-donut3dchart90C7EE7300F54782BFCB00B95C1B371E_DEBUG p {
+  font-size: 20px;
+  font-weight: bold;
+}
+.visual-donut3dchart90C7EE7300F54782BFCB00B95C1B371E_DEBUG p em {
+  background: yellow;
+  padding: 5px;
+}
+.visual-donut3dchart90C7EE7300F54782BFCB00B95C1B371E_DEBUG body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  width: 960px;
+  height: 500px;
+  position: relative;
+}
+.visual-donut3dchart90C7EE7300F54782BFCB00B95C1B371E_DEBUG path.slice {
+  stroke-width: 2px;
+}
+.visual-donut3dchart90C7EE7300F54782BFCB00B95C1B371E_DEBUG polyline {
+  opacity: .3;
+  stroke: black;
+  stroke-width: 2px;
+  fill: none;
+}
+.visual-donut3dchart90C7EE7300F54782BFCB00B95C1B371E_DEBUG svg text.percent {
+  fill: white;
+  text-anchor: middle;
+  font-size: 12px;
+}
